@@ -51,7 +51,7 @@ jobs:
           if n == 0 and (tag_a or tag_b):
               sys.exit(1)
           "
-      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/upload-pages-artifact@v5
         with:
           path: _site
       - id: deployment
